@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Connect pycharm with Github.iml" filepath="$PROJECT_DIR$/.idea/Connect pycharm with Github.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programming_with_python_2122.iml" filepath="$PROJECT_DIR$/.idea/Programming_with_python_2122.iml" />
+>>>>>>> d707175fa0088f7b78cc5fc25c3dc202c5d90877
     </modules>
   </component>
 </project>

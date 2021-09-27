@@ -21,7 +21,10 @@
 # Version: 1.0.0
 # Maintainer: Diego Pajarito
 # Email: diegopajarito@iaac.net
+<<<<<<< HEAD
 >>>>>>> 5ecbb945a64145d20220a7199f2c91ad1f9342cf
+=======
+>>>>>>> d707175fa0088f7b78cc5fc25c3dc202c5d90877
 # Status: development
 ##################################################
 
