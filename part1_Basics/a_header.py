@@ -7,12 +7,21 @@
 ##################################################
 #
 ##################################################
+<<<<<<< HEAD
 # Author: Yohan Wadia
 # Credits: [Institute for Advanced Architecture of Catalonia - IAAC, Advanced Architecture group]
 # License:  Apache License Version 2.0
 # Version: 1.0.0
 # Maintainer: Yohan Wadia
 # Email: yohanswadia@gmail.com
+=======
+# Author: Diego Pajarito
+# Credits: [Institute for Advanced Architecture of Catalonia - IAAC, Advanced Architecture group]
+# License:  Apache License Version 2.0
+# Version: 1.0.0
+# Maintainer: Diego Pajarito
+# Email: diegopajarito@iaac.net
+>>>>>>> 5ecbb945a64145d20220a7199f2c91ad1f9342cf
 # Status: development
 ##################################################
 
