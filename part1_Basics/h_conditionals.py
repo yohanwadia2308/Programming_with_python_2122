@@ -35,6 +35,9 @@ city_2_unemployment_rate = 7.4
 city_3_name = 'Amsterdam'
 city_3_population = 2431000
 city_3_unemployment_rate = 3.3
+city_4_name = 'Mumbai'
+city_4_population = 12480000
+city_4_unemployment_rate = 3.3
 
 # note: Mind the indented structure of if clauses. It matters!!!!
 

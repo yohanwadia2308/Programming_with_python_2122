@@ -22,33 +22,40 @@
 
 # Let's create two variables and assign them two values
 
-i_am_a_variable = 99
-i_am_another_variable = 63
+x = 99
+y = 63
 
 # Let's assign the result of an operation to a third variable
-i_store_the_result = i_am_a_variable * i_am_another_variable
+z = x * y
 
 
 # Let's print out the result
 print('The value assigned is:')
-print(i_store_the_result)
-print('....................\n')
+print(z)
+
+# Let's assign the result of an operation to a third variable
+z = x * y - x + y
+
+# Let's print out the result
+print('The value assigned is:')
+print(z)
 
 # Let's assign a new value to this variable and print again
-i_store_the_result = i_am_a_variable - i_am_another_variable
+z = x - y
 print('The value assigned now is:')
-print(i_store_the_result)
-print('....................\n')
+print(z)
+
 
 # We can also assign values or variable's values
-i_am_a_variable = i_store_the_result
-i_am_another_variable = 'Now I store text'
+x = z
+y = 'Now I store text'
 
 # Let's see how we ended up storing values
-print('The value in -i_am_a_variable- now is:')
-print(i_am_a_variable)
-print('The value in -i_am_another_variable- now is:')
-print(i_am_another_variable)
-print('The value in -i_am_a_variable- now is:')
-print(i_store_the_result)
-print('....................\n')
+print('The value in -x- now is:')
+print(x)
+print('The value in -y- now is:')
+print(y)
+print('The value in -x- now is:')
+print(z)
+
+

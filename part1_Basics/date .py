@@ -18,3 +18,16 @@
 
 # End of header section
 
+x = 1996
+y = 23
+z = 'August'
+print(y,z,x)
+
+
+import calendar
+
+date = calendar.weekday(2021,9,27)
+dayname = calendar.day_name[date]
+
+print('we have a programming class on',dayname)
+
